@@ -1,0 +1,6 @@
+{
+  "version": "4.10",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.10/LiminalChess-4.10.bin",
+  "sha256": "008cac152774f42c895f9bf39d3222cefda002b0500e1d0897d65489a042f12c",
+  "notes": "First release published via the public releases repo (validates the OTA auto-update download path end-to-end)"
+}
