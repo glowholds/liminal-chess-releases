@@ -1,6 +1,6 @@
 {
-  "version": "4.12",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.12/LiminalChess-4.12.bin",
-  "sha256": "c66f55abf5d3934067477c53ff70f215c31dd264338e60913f47125c6b31bc13",
-  "notes": "Auto-update toggle (web Settings)  on-device check for update now button on the Settings screen"
+  "version": "4.13",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.13/LiminalChess-4.13.bin",
+  "sha256": "030d38a2d63a7e00d3099a2906c913f4922b28c652aec4d7c04ff1fa22e3b435",
+  "notes": "Training drill polish: non-blocking score screen, reliable Exit, 2-scan placement debounce, correct/wrong sounds, persisted personal bests shown on the Training menu"
 }
