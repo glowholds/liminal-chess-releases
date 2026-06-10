@@ -1,6 +1,6 @@
 {
-  "version": "4.10",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.10/LiminalChess-4.10.bin",
-  "sha256": "008cac152774f42c895f9bf39d3222cefda002b0500e1d0897d65489a042f12c",
-  "notes": "First release published via the public releases repo (validates the OTA auto-update download path end-to-end)"
+  "version": "4.11",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.11/LiminalChess-4.11.bin",
+  "sha256": "1ada12575e13e117b52326c33ad2f95cb4aa7aa366553a37dc1ace4a91ad52bd",
+  "notes": "Review fixes: update-prompt latch dead-end, remove 1Hz full redraw (clock flicker), en-passant baseline refresh, reject firmware-less /update POSTs, flag-fall refresh flag, mandatory manifest SHA-256, disable rollback during upload"
 }
