@@ -1,6 +1,6 @@
 {
-  "version": "4.13",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.13/LiminalChess-4.13.bin",
-  "sha256": "030d38a2d63a7e00d3099a2906c913f4922b28c652aec4d7c04ff1fa22e3b435",
-  "notes": "Training drill polish: non-blocking score screen, reliable Exit, 2-scan placement debounce, correct/wrong sounds, persisted personal bests shown on the Training menu"
+  "version": "4.14",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.14/LiminalChess-4.14.bin",
+  "sha256": "27b075adacd50962049c0b0f8fedf619cf434de9a35096c6f9042e5d916a0ed7",
+  "notes": "Set MASK_INTB on all TMAG5273 sensors per datasheet (INT pin is hard-wired to GND POR default leaves the internal INT driver unmasked)"
 }
