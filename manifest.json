@@ -1,6 +1,6 @@
 {
-  "version": "4.14",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.14/LiminalChess-4.14.bin",
-  "sha256": "27b075adacd50962049c0b0f8fedf619cf434de9a35096c6f9042e5d916a0ed7",
-  "notes": "Set MASK_INTB on all TMAG5273 sensors per datasheet (INT pin is hard-wired to GND POR default leaves the internal INT driver unmasked)"
+  "version": "4.15",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.15/LiminalChess-4.15.bin",
+  "sha256": "2eceb307fd5749bf171f9511ef03635d470ca0d34ea7c1b9e7895574e741f73b",
+  "notes": "Software power button: deep-sleep on long-press D0 or inactivity, wake on D0 press (replaces physical EN switch)"
 }
