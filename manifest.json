@@ -1,6 +1,6 @@
 {
-  "version": "4.16",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.16/LiminalChess-4.16.bin",
-  "sha256": "c8b59b5c30f0881f3ee2313a1c59568872174eda6d4dcd0424628a71bb566b12",
-  "notes": "Add polcheck serial diagnostic: verifies W/B magnet polarity separation (prep for auto-orientation)"
+  "version": "4.19",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.19/LiminalChess-4.19.bin",
+  "sha256": "b1122b8a9f7becb19bf83d674dc22b79589fa167753ca3f53d8602726bfa7606",
+  "notes": "Auto-orientation: default white-sign to -1 (works out of box)  harden orient cal with polcheck-style validation"
 }
