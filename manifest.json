@@ -1,6 +1,6 @@
 {
-  "version": "4.19",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.19/LiminalChess-4.19.bin",
-  "sha256": "b1122b8a9f7becb19bf83d674dc22b79589fa167753ca3f53d8602726bfa7606",
-  "notes": "Auto-orientation: default white-sign to -1 (works out of box)  harden orient cal with polcheck-style validation"
+  "version": "4.20",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.20/LiminalChess-4.20.bin",
+  "sha256": "9a665185dcf3b8f7dafee15dfe15a31af484ae5bf67c162ec742a64d43179fad",
+  "notes": "Auto-orientation: web Calibrate button  mid-game resume detects orientation by matching the position both ways"
 }
