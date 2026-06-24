@@ -1,6 +1,6 @@
 {
-  "version": "4.20",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.20/LiminalChess-4.20.bin",
-  "sha256": "9a665185dcf3b8f7dafee15dfe15a31af484ae5bf67c162ec742a64d43179fad",
-  "notes": "Auto-orientation: web Calibrate button  mid-game resume detects orientation by matching the position both ways"
+  "version": "4.24",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.24/LiminalChess-4.24.bin",
+  "sha256": "8f1a380e228dc7d6006a5656d8d5c67f6fef235aede18f7c89152b278ad57522",
+  "notes": "Fix king-first queenside castling: latch castle-in-progress so the rook lift isnt misread as a bogus Rc8"
 }
