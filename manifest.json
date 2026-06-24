@@ -1,6 +1,6 @@
 {
-  "version": "4.24",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.24/LiminalChess-4.24.bin",
-  "sha256": "8f1a380e228dc7d6006a5656d8d5c67f6fef235aede18f7c89152b278ad57522",
-  "notes": "Fix king-first queenside castling: latch castle-in-progress so the rook lift isnt misread as a bogus Rc8"
+  "version": "4.25",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.25/LiminalChess-4.25.bin",
+  "sha256": "92f270c8a6c3968f9b91215ea85b5c160aefd8d348a8ea8717b0e10e513d9dc1",
+  "notes": "Web: style email/url inputs to match collapse device ID / HMAC secret / endpoint into an Advanced section"
 }
