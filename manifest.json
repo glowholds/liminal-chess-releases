@@ -1,6 +1,6 @@
 {
-  "version": "4.25",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.25/LiminalChess-4.25.bin",
-  "sha256": "92f270c8a6c3968f9b91215ea85b5c160aefd8d348a8ea8717b0e10e513d9dc1",
-  "notes": "Web: style email/url inputs to match collapse device ID / HMAC secret / endpoint into an Advanced section"
+  "version": "4.26",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.26/LiminalChess-4.26.bin",
+  "sha256": "5ca4b8576188d3a8ed990baee4664d706dcf26360b22cf4a15d7071ed7bf60f3",
+  "notes": "Support Arduino Modulino Buzzer (0x3C) alongside SparkFun Qwiic (0x34): auto-detect at boot  buzzer serial override"
 }
