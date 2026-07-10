@@ -1,6 +1,6 @@
 {
-  "version": "4.26",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.26/LiminalChess-4.26.bin",
-  "sha256": "5ca4b8576188d3a8ed990baee4664d706dcf26360b22cf4a15d7071ed7bf60f3",
-  "notes": "Support Arduino Modulino Buzzer (0x3C) alongside SparkFun Qwiic (0x34): auto-detect at boot  buzzer serial override"
+  "version": "4.28",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.28/LiminalChess-4.28.bin",
+  "sha256": "55f4c4d4cbbe864b2bb6937750e4a63a0904e1f11becf5b4740c98b355ed1802",
+  "notes": "Modulino buzzer address corrected to 7-bit 0x1E (docs quote 8-bit 0x3C) Modulino was never detectable at the wrong address"
 }
