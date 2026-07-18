@@ -1,6 +1,6 @@
 {
-  "version": "4.28",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.28/LiminalChess-4.28.bin",
-  "sha256": "55f4c4d4cbbe864b2bb6937750e4a63a0904e1f11becf5b4740c98b355ed1802",
-  "notes": "Modulino buzzer address corrected to 7-bit 0x1E (docs quote 8-bit 0x3C) Modulino was never detectable at the wrong address"
+  "version": "4.29",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.29/LiminalChess-4.29.bin",
+  "sha256": "4fb5025246c31feef2f071fe4980213bcf99d94ef469cfd4102b56751ba5eb80",
+  "notes": "Local game: no undo on unrelated phantom lifts recovery verifies board vs model"
 }
