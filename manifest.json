@@ -1,6 +1,6 @@
 {
-  "version": "4.29",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v4.29/LiminalChess-4.29.bin",
-  "sha256": "4fb5025246c31feef2f071fe4980213bcf99d94ef469cfd4102b56751ba5eb80",
-  "notes": "Local game: no undo on unrelated phantom lifts recovery verifies board vs model"
+  "version": "5.63",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.63/LiminalChess-5.63.bin",
+  "sha256": "28464abdda10a3a89ec447d6d2e79b2ff8f0e8095805b45d836878c11803e0ea",
+  "notes": "per-hardware OTA channels (manifest.json / manifest-hw2.json)"
 }
