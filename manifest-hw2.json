@@ -1,6 +1,6 @@
 {
-  "version": "5.63",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.63-hw2/LiminalChess-hw2-5.63.bin",
-  "sha256": "597dc286d19f516dccb4a1a5057f39b5066e3ddb3ea9b25fa19b266c104addf8",
-  "notes": "per-hardware OTA channels (manifest.json / manifest-hw2.json)"
+  "version": "5.64",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.64-hw2/LiminalChess-hw2-5.64.bin",
+  "sha256": "8379bc577b4c3fc7f0599d4bf26efe67371dd920c28dde376a63410c6a136d59",
+  "notes": "power button unified: hold-to-off is the wake button (A on V2, D0 on V1)"
 }
