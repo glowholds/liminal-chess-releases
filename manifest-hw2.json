@@ -1,6 +1,6 @@
 {
-  "version": "5.65",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.65-hw2/LiminalChess-hw2-5.65.bin",
-  "sha256": "54c7738227bf24b5a139122fd386c03cf42e9094fdc215d614c685b9b98832ef",
-  "notes": "guided desync recovery: full check on rejection, misplaced-piece narrative, moves viewer"
+  "version": "5.66",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.66-hw2/LiminalChess-hw2-5.66.bin",
+  "sha256": "feae3cada2cfdf30dae9e7b0ddc1e9bec77950eab035d50efc89ab917290fefe",
+  "notes": "OTA battery guard: VBUS wall-power detect message no longer truncates"
 }
