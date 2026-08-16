@@ -1,6 +1,6 @@
 {
-  "version": "5.64",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.64-hw2/LiminalChess-hw2-5.64.bin",
-  "sha256": "8379bc577b4c3fc7f0599d4bf26efe67371dd920c28dde376a63410c6a136d59",
-  "notes": "power button unified: hold-to-off is the wake button (A on V2, D0 on V1)"
+  "version": "5.65",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.65-hw2/LiminalChess-hw2-5.65.bin",
+  "sha256": "54c7738227bf24b5a139122fd386c03cf42e9094fdc215d614c685b9b98832ef",
+  "notes": "guided desync recovery: full check on rejection, misplaced-piece narrative, moves viewer"
 }
