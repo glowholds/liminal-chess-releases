@@ -1,6 +1,6 @@
 {
-  "version": "5.66",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.66-hw2/LiminalChess-hw2-5.66.bin",
-  "sha256": "feae3cada2cfdf30dae9e7b0ddc1e9bec77950eab035d50efc89ab917290fefe",
-  "notes": "OTA battery guard: VBUS wall-power detect message no longer truncates"
+  "version": "5.67",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.67-hw2/LiminalChess-hw2-5.67.bin",
+  "sha256": "ee5ccd6865049973dd6da559d667acc569008c368a480a37b88f40cd551d28d3",
+  "notes": "charge-friendly sleep  periodic charging peek while asleep on power"
 }
