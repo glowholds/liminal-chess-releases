@@ -1,6 +1,6 @@
 {
-  "version": "5.68",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.68-hw2/LiminalChess-hw2-5.68.bin",
-  "sha256": "492ea9af5c70415a87babe67184e55d0c24abf64b9ff145f7b2d1b4caf230875",
-  "notes": "full-codebase text-fit audit: 17 clipping/truncating strings fixed"
+  "version": "5.69",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.69-hw2/LiminalChess-hw2-5.69.bin",
+  "sha256": "6af855ccd22818964ebbb2e0800e4495d113c9d1fe5163e32dd62dded92bca16",
+  "notes": "web factory reset (full NVS erase) WiFi disconnect-reason logging"
 }
