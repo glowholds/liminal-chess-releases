@@ -1,6 +1,6 @@
 {
-  "version": "5.69",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.69-hw2/LiminalChess-hw2-5.69.bin",
-  "sha256": "6af855ccd22818964ebbb2e0800e4495d113c9d1fe5163e32dd62dded92bca16",
-  "notes": "web factory reset (full NVS erase) WiFi disconnect-reason logging"
+  "version": "5.72",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.72-hw2/LiminalChess-hw2-5.72.bin",
+  "sha256": "978737e640d125558abef2a52173b61d1d93d82710d5050abb3641c2acf8ff61",
+  "notes": "setup AP on its own subnet (192.168.44.1) to avoid home-LAN collisions"
 }
