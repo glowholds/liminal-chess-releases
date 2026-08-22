@@ -1,6 +1,6 @@
 {
-  "version": "5.63",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.63/LiminalChess-5.63.bin",
-  "sha256": "28464abdda10a3a89ec447d6d2e79b2ff8f0e8095805b45d836878c11803e0ea",
-  "notes": "per-hardware OTA channels (manifest.json / manifest-hw2.json)"
+  "version": "5.72",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.72/LiminalChess-5.72.bin",
+  "sha256": "17c95dd664bfc2b8bd574ce19cdf5212690120803ed78dc0277eb01d0fd80215",
+  "notes": "setup AP on its own subnet (192.168.44.1) to avoid home-LAN collisions"
 }
