@@ -1,6 +1,6 @@
 {
-  "version": "5.72",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.72-hw2/LiminalChess-hw2-5.72.bin",
-  "sha256": "978737e640d125558abef2a52173b61d1d93d82710d5050abb3641c2acf8ff61",
-  "notes": "setup AP on its own subnet (192.168.44.1) to avoid home-LAN collisions"
+  "version": "5.73",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.73-hw2/LiminalChess-hw2-5.73.bin",
+  "sha256": "ecb45960b9399bf1fa97be2fa535731e24353afc50e70e7b872b25bd92f2606f",
+  "notes": "draw-accept detected during own turn quick poll timeouts (button lag) neutral DRAW banner"
 }
