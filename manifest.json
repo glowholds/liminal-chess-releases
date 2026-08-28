@@ -1,6 +1,6 @@
 {
-  "version": "5.74",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.74/LiminalChess-5.74.bin",
-  "sha256": "eb5b428fd1a3cfadd7a45d1f4c8663afd07b94b9528b88475f1a1003d44601ba",
-  "notes": "factory selftest serial command"
+  "version": "5.75",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.75/LiminalChess-5.75.bin",
+  "sha256": "e87b068b8acc3ab343d2913a397772abb0a655c8bf9fb9ff24739371a313b615",
+  "notes": "selftest: no-battery is WARN not FAIL calibration-presence warning"
 }
