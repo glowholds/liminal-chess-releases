@@ -1,6 +1,6 @@
 {
-  "version": "5.73",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.73/LiminalChess-5.73.bin",
-  "sha256": "77fc84d3c5fdc9a8117c8c0a432a5ddee60551dfd6d5516a1f6d132778bf852f",
-  "notes": "draw-accept detected during own turn quick poll timeouts (button lag) neutral DRAW banner"
+  "version": "5.74",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.74/LiminalChess-5.74.bin",
+  "sha256": "eb5b428fd1a3cfadd7a45d1f4c8663afd07b94b9528b88475f1a1003d44601ba",
+  "notes": "factory selftest serial command"
 }
