@@ -1,6 +1,6 @@
 {
-  "version": "5.75",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.75/LiminalChess-5.75.bin",
-  "sha256": "e87b068b8acc3ab343d2913a397772abb0a655c8bf9fb9ff24739371a313b615",
-  "notes": "selftest: no-battery is WARN not FAIL calibration-presence warning"
+  "version": "5.76",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.76/LiminalChess-5.76.bin",
+  "sha256": "49871bf698f44b009b0a4805199c70e2fbe8c3c011127d07982ceed1a5a1df4b",
+  "notes": "move-prompt piece icon: lichess games use the server move list, never the stale local model"
 }
