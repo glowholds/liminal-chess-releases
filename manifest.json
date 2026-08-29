@@ -1,6 +1,6 @@
 {
-  "version": "5.76",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.76/LiminalChess-5.76.bin",
-  "sha256": "49871bf698f44b009b0a4805199c70e2fbe8c3c011127d07982ceed1a5a1df4b",
-  "notes": "move-prompt piece icon: lichess games use the server move list, never the stale local model"
+  "version": "5.77",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.77/LiminalChess-5.77.bin",
+  "sha256": "912d4b191c9eefa578f0593d0114dcef492d2f39b6b07424441d2475a5caeafa",
+  "notes": "castle guard: defer pair commits while the mover king is in flight"
 }
