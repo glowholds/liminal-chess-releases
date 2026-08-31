@@ -1,6 +1,6 @@
 {
-  "version": "5.79",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.79-hw2/LiminalChess-hw2-5.79.bin",
-  "sha256": "2a50bce644aae6d2f47af8b1516fedec52b486f45cab54c123b92f5595553cd0",
-  "notes": "status strip cleanup: compact 1/4 title, battery  sign, icon spacing"
+  "version": "5.80",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.80-hw2/LiminalChess-hw2-5.80.bin",
+  "sha256": "5221fcf5b07ebd8ea43d6a018dffa83254cdf68c1bc03b057e53761dedc53f66",
+  "notes": "status strip: full-size battery percent wifi shown only when disconnected"
 }
