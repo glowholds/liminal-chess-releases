@@ -1,6 +1,6 @@
 {
-  "version": "5.77",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.77-hw2/LiminalChess-hw2-5.77.bin",
-  "sha256": "b2baa1e6fdbd0f2cc249f757e856c19e513db2fd376634bad18cdef0681d1896",
-  "notes": "castle guard: defer pair commits while the mover king is in flight"
+  "version": "5.78",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.78-hw2/LiminalChess-hw2-5.78.bin",
+  "sha256": "d6978204c6fb19b287f2585bbe8ff331f8d648bd739e918772df26eb80480dcd",
+  "notes": "V2 status strip: battery percentage instead of quarter-bucket glyph"
 }
