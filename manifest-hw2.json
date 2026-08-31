@@ -1,6 +1,6 @@
 {
-  "version": "5.80",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.80-hw2/LiminalChess-hw2-5.80.bin",
-  "sha256": "5221fcf5b07ebd8ea43d6a018dffa83254cdf68c1bc03b057e53761dedc53f66",
-  "notes": "status strip: full-size battery percent wifi shown only when disconnected"
+  "version": "5.81",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.81-hw2/LiminalChess-hw2-5.81.bin",
+  "sha256": "c061cfa2b35760983c13355d390138ad9082a90e8d3851841b02e74b64448695",
+  "notes": "OTA manifest fetch busts the CDN cache (fresh releases visible immediately)"
 }
