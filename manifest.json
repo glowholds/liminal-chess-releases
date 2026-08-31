@@ -1,6 +1,6 @@
 {
-  "version": "5.77",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.77/LiminalChess-5.77.bin",
-  "sha256": "912d4b191c9eefa578f0593d0114dcef492d2f39b6b07424441d2475a5caeafa",
-  "notes": "castle guard: defer pair commits while the mover king is in flight"
+  "version": "5.81",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.81/LiminalChess-5.81.bin",
+  "sha256": "77f94605f29217d9183aa5268cc9de5f3107c8571546a0a59c58d9b6ddbc086c",
+  "notes": "OTA manifest fetch busts the CDN cache (fresh releases visible immediately)"
 }
