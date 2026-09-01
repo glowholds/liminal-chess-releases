@@ -1,6 +1,7 @@
 {
-  "version": "5.81",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.81/LiminalChess-5.81.bin",
-  "sha256": "77f94605f29217d9183aa5268cc9de5f3107c8571546a0a59c58d9b6ddbc086c",
-  "notes": "OTA manifest fetch busts the CDN cache (fresh releases visible immediately)"
+  "version": "5.86",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.86/LiminalChess-5.86.bin",
+  "sha256": "25645c1d6f2ce892cd28c1d5cc8a46c69d688f10608af38b96240cfcdf5c7269",
+  "sig": "dab4f3cc5fd29c7bbb3432fe9b79c8fbd6a13fed42a4e49d93bd3694f9e18156",
+  "notes": "review batch 5: display fixes (flip insets, no-clip size-1, promo icon, chip overflow, dead TFT screens)"
 }
