@@ -1,7 +1,7 @@
 {
-  "version": "5.87",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.87-hw2/LiminalChess-hw2-5.87.bin",
-  "sha256": "934a9c1036723a4d57b05ff27093ed4b1c47a51bbd14121d13d6cbca2aef461f",
-  "sig": "ee5c00722e097fa96df060983225d9ce0e6e93240325cc815a99061065ea9cb2",
-  "notes": "local clocks: both sides shown, totals persist with saved games, on-screen time always counts"
+  "version": "5.88",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.88-hw2/LiminalChess-hw2-5.88.bin",
+  "sha256": "a951bce028111dba19e0c2e53eaeb6e608b002e4ae315e9bcd8f31ea9911f0bf",
+  "sig": "5ab3bba6f59a34b040f57ee69793903dac74081016e5b142aa808620ba6bfad4",
+  "notes": "fix: local castling never committed (castle guard fired on the completed pattern)"
 }
