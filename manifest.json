@@ -1,7 +1,7 @@
 {
-  "version": "5.88",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.88/LiminalChess-5.88.bin",
-  "sha256": "8f8ce34c3b36a20d69a43fe574510f539685d3d92860bad0e31c0a8eadfaa0c4",
-  "sig": "cf378325add996e0376db4c67abade04fe462da7783e4a90a37d55777d63bb44",
-  "notes": "fix: local castling never committed (castle guard fired on the completed pattern)"
+  "version": "5.89",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.89/LiminalChess-5.89.bin",
+  "sha256": "d7794ecb25de536b1ef32bb76b71abeae9123ba50ff642aa97c873a8c5e2cf07",
+  "sig": "67315aaf29d77d51310cc146ad09098e45517a29adf97a6a59d6d06ddfcb27a2",
+  "notes": "online games as Black: OLED turns to face the black side (footer slots mirrored to the buttons)"
 }
