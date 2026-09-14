@@ -1,7 +1,7 @@
 {
-  "version": "5.89",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.89-hw2/LiminalChess-hw2-5.89.bin",
-  "sha256": "8e46f9d773d647869feca2b3ebbae55c942f0b983b3f2138ef3fb41745f6d084",
-  "sig": "9b3f39559fcca517b4d000d1438715b69abdd3d1399491ffa168d869d244ca38",
-  "notes": "online games as Black: OLED turns to face the black side (footer slots mirrored to the buttons)"
+  "version": "5.90",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.90-hw2/LiminalChess-hw2-5.90.bin",
+  "sha256": "f152ae519862af0ffc4fe83cf620e952087f9f94bed17bd72caaf7523b5e57c4",
+  "sig": "76cc4bb56b2caac1f2dd70241c844131a3d805842ffa1de5dce306f0c1f44d85",
+  "notes": "HW1 TFT: loading dots no longer paint over the next screen size-1 text raised to readable sizes"
 }
