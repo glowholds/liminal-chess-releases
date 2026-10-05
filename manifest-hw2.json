@@ -1,7 +1,7 @@
 {
-  "version": "5.90",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.90-hw2/LiminalChess-hw2-5.90.bin",
-  "sha256": "f152ae519862af0ffc4fe83cf620e952087f9f94bed17bd72caaf7523b5e57c4",
-  "sig": "76cc4bb56b2caac1f2dd70241c844131a3d805842ffa1de5dce306f0c1f44d85",
-  "notes": "HW1 TFT: loading dots no longer paint over the next screen size-1 text raised to readable sizes"
+  "version": "5.91",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.91-hw2/LiminalChess-hw2-5.91.bin",
+  "sha256": "cdfcf5fada294cb7f0393c89188c1c99a955b8a710551497f981667c444da904",
+  "sig": "0a13c7260c1ee78101522b669d4472d21e84ddf943d7de42f2584257f0f0f341",
+  "notes": "challenge alerts: jump to Accept/Decline from any menu, repeat chirp 5 min, hold auto-sleep 10 min, poll in more states"
 }
