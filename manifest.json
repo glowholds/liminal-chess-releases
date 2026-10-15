@@ -1,7 +1,7 @@
 {
-  "version": "5.91",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.91/LiminalChess-5.91.bin",
-  "sha256": "691fa09cbcd45dd3b82e7ce835fb1a99fca99f6db423bcc63779039b496ba9d1",
-  "sig": "bb240a4d2e98c1d6e3eb28639cc9414fc40cbf1281b13e0f8d0283cd86dc40df",
-  "notes": "challenge alerts: jump to Accept/Decline from any menu, repeat chirp 5 min, hold auto-sleep 10 min, poll in more states"
+  "version": "5.92",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.92/LiminalChess-5.92.bin",
+  "sha256": "a7d9bbad01edf077454043483d03f9253f13cabc946e392b384924bc848b2dab",
+  "sig": "ef72d1c855ab0c28251e38b64cc7283fd1afa610a2d8d67bcb5123817c14754e",
+  "notes": "Auto Power-Off honours the slider on external power 2-min charging cap is now an opt-in toggle"
 }
