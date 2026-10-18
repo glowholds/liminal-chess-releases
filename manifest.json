@@ -1,7 +1,7 @@
 {
-  "version": "5.93",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.93/LiminalChess-5.93.bin",
-  "sha256": "6f86aab34a6934f3dfdc78a95fb0a71e80e35d24a81f293be0b8fc8107f2d40a",
-  "sig": "39ce4a25dd2153880b52e5dc5b499c63abf95ee05fc4381bce7ff3084da22eef",
-  "notes": "online moves: full legality gate on the live position, queen promotion, move  Lichess reason in the diag log"
+  "version": "5.94",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.94/LiminalChess-5.94.bin",
+  "sha256": "3c0a5ae26d9050d1364d073d966db133e67702da511d46ef681655a690b6e09a",
+  "sig": "65b126e6a9dd8b2647a6069d5c7c185d7a08ca221ab566309923a25990056d44",
+  "notes": "online seeks held open on a Searching screen (countdown, Cancel, no-match retry)"
 }
