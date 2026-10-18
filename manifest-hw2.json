@@ -1,7 +1,7 @@
 {
-  "version": "5.92",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.92-hw2/LiminalChess-hw2-5.92.bin",
-  "sha256": "329dfdba16a2c7c4ff7a38368372d3a94be019f533c4ddf3871e84d9a39262be",
-  "sig": "2f4bb4c63223535d8efb3bd5b1e6086004d51468402af5253f894cde45730192",
-  "notes": "Auto Power-Off honours the slider on external power 2-min charging cap is now an opt-in toggle"
+  "version": "5.93",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.93-hw2/LiminalChess-hw2-5.93.bin",
+  "sha256": "5d971f975f56946f62ba7eb5149c683034d575fa2de7102356c45090c4f20b7a",
+  "sig": "e2d71e318b21af7d95435aeea79d18bfca1fde84d9715897246e6f72b91dc097",
+  "notes": "online moves: full legality gate on the live position, queen promotion, move  Lichess reason in the diag log"
 }
