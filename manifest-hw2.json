@@ -1,7 +1,8 @@
 {
-  "version": "5.94",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.94-hw2/LiminalChess-hw2-5.94.bin",
-  "sha256": "412166eb5df4e83c39b1194c23c3dede0249dd0efad622bdd2c5e90fbd5cdf95",
-  "sig": "0507d9ab48b1350088803d86d2ecccf45919a891f6a917a7154d9f948ec89522",
-  "notes": "online seeks held open on a Searching screen (countdown, Cancel, no-match retry)"
+  "version": "5.98",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.98-hw2/LiminalChess-hw2-5.98.bin",
+  "sha256": "2bddd28e9274951b87bf9d9f263ccff26ae550b3071d1a781c261926b12f9222",
+  "sig": "b185ba2ab9a77078e51690bd0665c83e22b489eaf700f4a843aee64aad41523d",
+  "sig2": "MEQCICluqnW6VW186gXtnOs6jvNGfYOKrxOzT9IrbesMnt1JAiB1eB75rPSxjAE4qJlk15M74vRlVxFwKGTmVlXAmyR9Qg==",
+  "notes": "review fixes: search screen non-blocking  times out, Lichess errors kept, result screen orientation, threshold range, standard-variant games only"
 }
