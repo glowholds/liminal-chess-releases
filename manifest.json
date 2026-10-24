@@ -1,8 +1,8 @@
 {
-  "version": "5.98",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.98/LiminalChess-5.98.bin",
-  "sha256": "4e54da004855717cccd60a5726480700b89d3ff10f7932e0971daadd52464968",
-  "sig": "7e5275839017656aaf2b5eb6a2022fe9507ebdc9eb60ce311907d2c3c843e0e0",
-  "sig2": "MEQCIGSTU9UCyYOxRDGPbntacJKaqgkek9FR4R+z3033Qi4HAiAcCV6iS/XcmVI4N1SoOYJhZQa6yeEZVCdBlUPlVFd87A==",
-  "notes": "review fixes: search screen non-blocking  times out, Lichess errors kept, result screen orientation, threshold range, standard-variant games only"
+  "version": "5.99",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.99/LiminalChess-5.99.bin",
+  "sha256": "498bff59fd3c16d3645a9d5b21cf8631a1151b9d7dbcd5c087c0f2e4e4b04319",
+  "sig": "abecb05e1860bd3eb343ff071f88c21f6cc868f3f288b5af10f17fef78a00f57",
+  "sig2": "MEUCIQD++hAB4fZ1RDxksbi+s56d3da5opw5aXDlyWkXQ2o/fwIgG2k+yy8g1ma7EdNj8N+MbLnLTqXZ8+Zh+8FBRdmi9s8=",
+  "notes": "online move loop fixes: reconcile lost replies, fresh board check, send-anyway, clearer return screen, log survives sleep"
 }
