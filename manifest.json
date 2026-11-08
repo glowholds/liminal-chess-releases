@@ -1,8 +1,8 @@
 {
-  "version": "5.99",
-  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v5.99/LiminalChess-5.99.bin",
-  "sha256": "498bff59fd3c16d3645a9d5b21cf8631a1151b9d7dbcd5c087c0f2e4e4b04319",
-  "sig": "abecb05e1860bd3eb343ff071f88c21f6cc868f3f288b5af10f17fef78a00f57",
-  "sig2": "MEUCIQD++hAB4fZ1RDxksbi+s56d3da5opw5aXDlyWkXQ2o/fwIgG2k+yy8g1ma7EdNj8N+MbLnLTqXZ8+Zh+8FBRdmi9s8=",
-  "notes": "online move loop fixes: reconcile lost replies, fresh board check, send-anyway, clearer return screen, log survives sleep"
+  "version": "6.00",
+  "url": "https://github.com/glowholds/liminal-chess-releases/releases/download/v6.00/LiminalChess-6.00.bin",
+  "sha256": "f884135d85498a899f1d08cb5a98a907dc936e4abe545752d643149ee2b4eaf7",
+  "sig": "d601421122b363341e3f6276e390d4a69458ff97e85f36e796b8329761c12242",
+  "sig2": "MEQCIG2mW6bxO3+2XeVShx6W6HU+MR1QH5tJH/Mxfin8BzRZAiA4VFHeWAb2bGAgzE1OsWmInEGtWoMTE5Dd4Y4DdvVPCg==",
+  "notes": "move settle window (taken-back moves no longer count)  optional press-to-send"
 }
